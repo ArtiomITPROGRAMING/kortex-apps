@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/license-MIT-00ff41.svg?style=for-the-badge)](LICENSE)
 [![KortexOS Compatibility](https://img.shields.io/badge/KortexOS-v1.0.0%2B-ff003c.svg?style=for-the-badge)](https://github.com/ArtiomITPROGRAMING/KortexOS)
 
+[ 🇬🇧 Read in English ](README.md) | [ 🇷🇺 Читать на русском ](README.ru.md) | [ 🌌 KortexOS Main Repo ](https://github.com/ArtiomITPROGRAMING/KortexOS)
+
 Welcome to the official **Kortex Apps Repository**! This repository serves as the decentralized cloud back-end for **Kortex App Hub (`kortex-store`)** in KortexOS.
 
 Every app listed here is automatically synchronized to KortexOS installations across the globe.
